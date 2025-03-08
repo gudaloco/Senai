@@ -5,7 +5,6 @@ EXEMPLO 1 - SOMAE DOIS NÚMEROS
 Desenvolva um programa que faça a soma de dois números e mostre o total.
 
  */
-
 public class Ex1 {
     public static void main(String[] args){
         //Instanciando e criando um objeto do tipo scanner
