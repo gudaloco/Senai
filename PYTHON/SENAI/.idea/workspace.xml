@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e22ee2df-0277-48ff-b626-b7e4f871125a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2slNzzI0Pxyz3028wxCRkSayQoK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.EX1.executor": "Run",
+    "Python.EX2.executor": "Run",
+    "Python.EX3.executor": "Run",
+    "Python.Ex1.executor": "Run",
+    "Python.Ex10.executor": "Run",
+    "Python.Ex2.executor": "Run",
+    "Python.Ex3.executor": "Run",
+    "Python.Ex4.executor": "Run",
+    "Python.Ex5.executor": "Run",
+    "Python.Ex7.executor": "Run",
+    "Python.Ex8.executor": "Run",
+    "Python.Ex9.executor": "Run",
+    "Python.Exemplo1.executor": "Run",
+    "Python.Exemplo2.executor": "Run",
+    "Python.Exemplo3.executor": "Run",
+    "Python.Exemplo4.executor": "Run",
+    "Python.L1Ex1.executor": "Run",
+    "Python.L1Ex2.executor": "Run",
+    "Python.L1Ex3.executor": "Run",
+    "Python.L1Ex4.executor": "Run",
+    "Python.L3Ex1.executor": "Run",
+    "Python.L3Ex2.executor": "Run",
+    "Python.L3Ex3.executor": "Run",
+    "Python.L3Ex4.executor": "Run",
+    "Python.L3Ex5.executor": "Run",
+    "Python.L4Ex1.executor": "Run",
+    "Python.L4Ex2.executor": "Run",
+    "Python.L4Ex3.executor": "Run",
+    "Python.L4Ex4.executor": "Run",
+    "Python.eeee.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gusta\OneDrive\Documentos\DEV\VSCODE\PYTHON\SENAI\Senai" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e22ee2df-0277-48ff-b626-b7e4f871125a" name="Changes" comment="" />
+      <created>1739026467481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739026467481</updated>
+    </task>
+    <servers />
+  </component>
+</project>
